@@ -1,0 +1,16 @@
+body{
+	margin: 0;
+	position: fixed;
+	background-color: #000;
+	font-family: "Open Sans", sans-serif;
+}
+#fps{
+	margin-left: 5px;
+	color: #f00;
+	font-weight: bold;
+}
+#inst{
+	margin-right: 10px;
+	float: right;
+	color: #eee;
+}
